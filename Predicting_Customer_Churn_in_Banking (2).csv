@@ -1,0 +1,15 @@
+col_name,data_type,comment
+RowNumber,bigint,null
+CustomerId,bigint,null
+Surname,string,null
+CreditScore,bigint,null
+Geography,string,null
+Gender,string,null
+Age,bigint,null
+Tenure,bigint,null
+Balance,double,null
+NumOfProducts,bigint,null
+HasCrCard,bigint,null
+IsActiveMember,bigint,null
+EstimatedSalary,double,null
+Exited,bigint,null
