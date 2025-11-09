@@ -74,6 +74,7 @@ Python, SQL, Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, Prophet, Databric
  Structure
 
 Big Data Analytics Capstone Project-Fi ance(Banking, Financial Institutions, Insurance)/
+
 ├── Predicting Customer Churn.ipynb
 ├── Credit Card Fraud Detection.ipynb
 ├── ATM Cash Forecasting.ipynb
@@ -85,7 +86,7 @@ Big Data Analytics Capstone Project-Fi ance(Banking, Financial Institutions, Ins
  Run Instructions
 
 git clone 
-
+https://github.com/ashalini2003-pixel/A-Shalini-24MBMA02-BDA-Capstone-Project/tree/main
 
 Open each .ipynb file in Jupyter/Databricks and run all cells sequentially.
 
