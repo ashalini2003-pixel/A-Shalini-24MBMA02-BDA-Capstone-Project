@@ -1,0 +1,5 @@
+CreditCategory,TotalCustomers,Churned,ChurnRatePercent
+Poor,632,150,23.73
+Average,4305,907,21.07
+Excellent,1598,313,19.59
+Good,3465,667,19.25
