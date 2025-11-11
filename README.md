@@ -2,7 +2,7 @@
 
 
 
-###  **A Big Data Analytics Capstone Project on Finance **
+###  **A Big Data Analytics Capstone Project on Finance**
 
 
 ##  Overview
