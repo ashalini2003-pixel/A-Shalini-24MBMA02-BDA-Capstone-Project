@@ -2,7 +2,7 @@
 
 
 
-###  *A Big Data Analytics Capstone Project on Finance *
+###  **A Big Data Analytics Capstone Project on Finance **
 
 
 ##  Overview
@@ -65,7 +65,7 @@ Each use case follows a consistent **Data Science workflow**:
 
 ##  Author
 
-** A Shalini **
+**A Shalini**
 MBA General 
 24MBMA02
 
